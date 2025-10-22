@@ -1,25 +1,24 @@
-
-
-
 body {
-color:rgb(255, 255, 255) ;
-background:rgb(51, 51, 51);
+    color: rgb(255, 255, 255);
+    background: rgb(51, 51, 51);
+    margin: 0px;
 }
 
-header{
+header {
     border-bottom: solid 2px rgb(51, 255, 0);
-     padding: 20px;
+    padding: 20px;
     font-size: 32px;
-    color:white;
+    color: white;
 }
 
-section{
-    background:rgb(0, 255, 136) ;
-    padding-bottom:80px ;
-    padding-top:80px ;
-    display:flex;
+section {
+    background: rgb(0, 255, 136);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
     justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 5%;
 }
